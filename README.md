@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @syshkerik-front
+- 🌱 I’m currently learning in Yandex.Practicum. This account was created for project's review.
